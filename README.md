@@ -46,3 +46,5 @@ unuvz_copy.py是un7z.py的最原始版本
 unzip.py是rund.py的原型
 
 不保证rund.py可以正常发挥作用，之前误删过一次，这次是重写的（根据unzip.py）
+
+搜索引擎（除了我以外的Python程序员们）提供了我的Python代码的主要教学
